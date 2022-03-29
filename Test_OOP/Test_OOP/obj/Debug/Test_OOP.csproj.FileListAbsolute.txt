@@ -1,0 +1,11 @@
+C:\Users\filip\source\repos\Test_OOP\Test_OOP\bin\Debug\Test_OOP.exe.config
+C:\Users\filip\source\repos\Test_OOP\Test_OOP\bin\Debug\Test_OOP.exe
+C:\Users\filip\source\repos\Test_OOP\Test_OOP\bin\Debug\Test_OOP.pdb
+C:\Users\filip\source\repos\Test_OOP\Test_OOP\obj\Debug\Test_OOP.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\Test_OOP\Test_OOP\obj\Debug\Test_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\filip\source\repos\Test_OOP\Test_OOP\obj\Debug\Test_OOP.Form1.resources
+C:\Users\filip\source\repos\Test_OOP\Test_OOP\obj\Debug\Test_OOP.Properties.Resources.resources
+C:\Users\filip\source\repos\Test_OOP\Test_OOP\obj\Debug\Test_OOP.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\Test_OOP\Test_OOP\obj\Debug\Test_OOP.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\Test_OOP\Test_OOP\obj\Debug\Test_OOP.exe
+C:\Users\filip\source\repos\Test_OOP\Test_OOP\obj\Debug\Test_OOP.pdb
